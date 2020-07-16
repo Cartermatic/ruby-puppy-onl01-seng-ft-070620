@@ -1,4 +1,4 @@
-require 'pr'
+require 'pry'
 class Dog
   
   @@all = []
