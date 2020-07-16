@@ -5,3 +5,7 @@
 # every dog that is initialized gets put in here
 # use self keyword inside initialize to refer to the dog you are pushing into array 
 
+class Dog
+  
+  
+  def initialize
