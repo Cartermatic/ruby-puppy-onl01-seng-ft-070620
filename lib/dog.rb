@@ -20,7 +20,6 @@ class Dog
   
   def self.print_all
    puts @@all.collect
-    end
   end
   
   
